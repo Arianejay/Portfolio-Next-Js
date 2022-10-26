@@ -8,7 +8,7 @@ export interface IProjectData {
     description: string
     model: StaticImageData
     tech: Array<StaticImageData>
-    demo: string
+    demo?: string
     github: string
   }
 }

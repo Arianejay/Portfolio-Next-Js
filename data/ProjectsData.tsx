@@ -6,8 +6,10 @@ import MongoDB from '../assets/images/mongodb.png'
 import Express from '../assets/images/express.png'
 import React from '../assets/images/react.png'
 import Node from '../assets/images/node.png'
+import MySql from '../assets/images/mysql.png'
 import TypingGameModel from '../assets/images/typinggame.png'
 import BlogitModel from '../assets/images/blogit.png'
+import AskitModel from '../assets/images/askit.png'
 
 export const ProjectsData = [
   {
@@ -29,5 +31,14 @@ export const ProjectsData = [
     tech: [MongoDB, Express, React, Node],
     demo: 'https://mellow-cobbler-136d1e.netlify.app/',
     github: 'https://github.com/Arianejay/Blog-it-MERN',
+  },
+  {
+    id: 3,
+    title: 'Ask It',
+    description:
+      'A forum app built with React Js as the client side, and Node Js with MySQL as the backend side. Has login/register functionality, profile page containing questions and comments, post/update/delete questions, and upvote questions.',
+    model: AskitModel,
+    tech: [MySql, Express, React, Node],
+    github: 'https://github.com/Arianejay/Forum-MySql',
   },
 ]
