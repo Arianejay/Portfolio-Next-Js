@@ -1,3 +1,61 @@
+<!-- Table of Contents -->
+# :notebook_with_decorative_cover: Table of Contents
+
+- [About the Project](#star2-about-the-project)
+  * [Screenshots](#camera-screenshots)
+  * [Tech Stack](#space_invader-tech-stack)
+  * [Features](#dart-features)
+- [Acknowledgements](#gem-acknowledgements)
+
+  
+
+<!-- About the Project -->
+## :star2: About the Project
+A Portfolio built with Next JS
+
+<!-- Screenshots -->
+### :camera: Screenshots
+
+<div align="center"> 
+ <img src="https://user-images.githubusercontent.com/103638111/198284733-6d96f781-5f31-48fd-81b6-be95b7798ab7.png" alt="screenshot" />
+ <img src="https://user-images.githubusercontent.com/103638111/198284855-e37b3c94-88e8-4ece-8d27-14384a22490e.png" alt="screenshot" />
+ <img src="https://user-images.githubusercontent.com/103638111/198284959-ebd49e64-d1ca-4114-af37-e2e2d249ca10.png" alt="screenshot" />
+</div>
+
+
+<!-- TechStack -->
+### :space_invader: Tech Stack
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://nextjs.org/">Next JS</a></li>
+  </ul>
+</details>
+
+
+<!-- Features -->
+### :dart: Features
+
+- Hero Section
+- About Section
+- Skills Section
+- Projects Section
+- Contact Section
+
+
+<!-- Acknowledgments -->
+## :gem: Acknowledgements
+
+
+ - This portfolio is inspired by sureshmurali's portfolio. 
+ 
+ Link to portfolio: https://github.com/sureshmurali/sureshmurali.github.io
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
