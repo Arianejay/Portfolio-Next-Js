@@ -13,6 +13,8 @@
 ## :star2: About the Project
 A Portfolio built with Next JS
 
+Demo: https://portfolio-arianejay.vercel.app/
+
 <!-- Screenshots -->
 ### :camera: Screenshots
 
